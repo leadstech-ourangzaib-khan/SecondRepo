@@ -58,7 +58,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		E059EBE418BB4634004DE742 /* adnan.m in Sources */ = {isa = PBXBuildFile; fileRef = E059EBE318BB4634004DE742 /* adnan.m */; };
+=======
+		CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D776E18BB4636007D812F /* ourangzaib.m */; };
+>>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
 =======
 		CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D776E18BB4636007D812F /* ourangzaib.m */; };
 >>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
@@ -143,8 +147,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		E059EBE218BB4634004DE742 /* adnan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adnan.h; sourceTree = "<group>"; };
 		E059EBE318BB4634004DE742 /* adnan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = adnan.m; sourceTree = "<group>"; };
+=======
+		CB5D776D18BB4636007D812F /* ourangzaib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ourangzaib.h; sourceTree = "<group>"; };
+		CB5D776E18BB4636007D812F /* ourangzaib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ourangzaib.m; sourceTree = "<group>"; };
+>>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
 =======
 		CB5D776D18BB4636007D812F /* ourangzaib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ourangzaib.h; sourceTree = "<group>"; };
 		CB5D776E18BB4636007D812F /* ourangzaib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ourangzaib.m; sourceTree = "<group>"; };
@@ -464,7 +473,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				E059EBE418BB4634004DE742 /* adnan.m in Sources */,
+=======
+				CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */,
+>>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
 =======
 				CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */,
 >>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
