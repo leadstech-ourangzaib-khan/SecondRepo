@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="3084" systemVersion="12C60" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="2">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="3084" systemVersion="12F45" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="2">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="2083"/>
     </dependencies>
@@ -113,22 +113,6 @@
         <image name="reswag.png" width="640" height="180"/>
         <image name="socialnewtorks.png" width="640" height="155"/>
     </resources>
-    <classes>
-        <class className="SharePopupView" superclassName="UIView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/SharePopupView.h"/>
-            <relationships>
-                <relationship kind="action" name="email:"/>
-                <relationship kind="action" name="sms:"/>
-                <relationship kind="outlet" name="image" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-        <class className="UntouchMePopupView" superclassName="UIView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/UntouchMePopupView.h"/>
-            <relationships>
-                <relationship kind="outlet" name="image" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>
