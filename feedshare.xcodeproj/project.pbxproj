@@ -54,27 +54,7 @@
 		CB1373DD18B6123E0000305A /* TransparentBlack.png in Resources */ = {isa = PBXBuildFile; fileRef = CB1373DC18B6123E0000305A /* TransparentBlack.png */; };
 		CB1373DF18B614DE0000305A /* Untitled-1.png in Resources */ = {isa = PBXBuildFile; fileRef = CB1373DE18B614DE0000305A /* Untitled-1.png */; };
 		CB4B9D6E18B721E8007FBD37 /* SharePopupView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB4B9D6D18B721E8007FBD37 /* SharePopupView.m */; };
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-		E059EBE418BB4634004DE742 /* adnan.m in Sources */ = {isa = PBXBuildFile; fileRef = E059EBE318BB4634004DE742 /* adnan.m */; };
-=======
 		CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D776E18BB4636007D812F /* ourangzaib.m */; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D776E18BB4636007D812F /* ourangzaib.m */; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D776E18BB4636007D812F /* ourangzaib.m */; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D776E18BB4636007D812F /* ourangzaib.m */; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5D776E18BB4636007D812F /* ourangzaib.m */; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -143,33 +123,8 @@
 		CB1373DE18B614DE0000305A /* Untitled-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Untitled-1.png"; path = "../../../../Desktop/Untitled-1.png"; sourceTree = "<group>"; };
 		CB4B9D6C18B721E8007FBD37 /* SharePopupView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SharePopupView.h; sourceTree = "<group>"; };
 		CB4B9D6D18B721E8007FBD37 /* SharePopupView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SharePopupView.m; sourceTree = "<group>"; };
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-		E059EBE218BB4634004DE742 /* adnan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adnan.h; sourceTree = "<group>"; };
-		E059EBE318BB4634004DE742 /* adnan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = adnan.m; sourceTree = "<group>"; };
-=======
 		CB5D776D18BB4636007D812F /* ourangzaib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ourangzaib.h; sourceTree = "<group>"; };
 		CB5D776E18BB4636007D812F /* ourangzaib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ourangzaib.m; sourceTree = "<group>"; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776D18BB4636007D812F /* ourangzaib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ourangzaib.h; sourceTree = "<group>"; };
-		CB5D776E18BB4636007D812F /* ourangzaib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ourangzaib.m; sourceTree = "<group>"; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776D18BB4636007D812F /* ourangzaib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ourangzaib.h; sourceTree = "<group>"; };
-		CB5D776E18BB4636007D812F /* ourangzaib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ourangzaib.m; sourceTree = "<group>"; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776D18BB4636007D812F /* ourangzaib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ourangzaib.h; sourceTree = "<group>"; };
-		CB5D776E18BB4636007D812F /* ourangzaib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ourangzaib.m; sourceTree = "<group>"; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-		CB5D776D18BB4636007D812F /* ourangzaib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ourangzaib.h; sourceTree = "<group>"; };
-		CB5D776E18BB4636007D812F /* ourangzaib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ourangzaib.m; sourceTree = "<group>"; };
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,8 +166,6 @@
 		CB13736318B5FE340000305A = {
 			isa = PBXGroup;
 			children = (
-				E059EBE218BB4634004DE742 /* adnan.h */,
-				E059EBE318BB4634004DE742 /* adnan.m */,
 				CB1373DA18B605D00000305A /* MessageUI.framework */,
 				CB13737518B5FE340000305A /* feedshare */,
 				CB13739C18B5FE340000305A /* feedshareTests */,
@@ -469,27 +422,7 @@
 				CB13738F18B5FE340000305A /* ViewController.m in Sources */,
 				CB4B9D6E18B721E8007FBD37 /* SharePopupView.m in Sources */,
 				CB07A23818B7B020009762A2 /* UntouchMePopupView.m in Sources */,
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-				E059EBE418BB4634004DE742 /* adnan.m in Sources */,
-=======
 				CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */,
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-				CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */,
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-				CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */,
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-				CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */,
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
-=======
-				CB5D776F18BB4636007D812F /* ourangzaib.m in Sources */,
->>>>>>> 637598088f9b959050274eb811ab60c7d76ec502
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

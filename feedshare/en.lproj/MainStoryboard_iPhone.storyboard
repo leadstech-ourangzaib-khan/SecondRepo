@@ -108,10 +108,10 @@
         </scene>
     </scenes>
     <resources>
-        <image name="center_purple_bar.png" width="16" height="16"/>
-        <image name="idontwanttoseethis.png" width="16" height="16"/>
-        <image name="reswag.png" width="16" height="16"/>
-        <image name="socialnewtorks.png" width="16" height="16"/>
+        <image name="center_purple_bar.png" width="640" height="236"/>
+        <image name="idontwanttoseethis.png" width="640" height="155"/>
+        <image name="reswag.png" width="640" height="180"/>
+        <image name="socialnewtorks.png" width="640" height="155"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
