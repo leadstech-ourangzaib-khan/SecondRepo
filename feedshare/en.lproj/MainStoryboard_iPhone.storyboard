@@ -108,27 +108,11 @@
         </scene>
     </scenes>
     <resources>
-        <image name="center_purple_bar.png" width="640" height="236"/>
-        <image name="idontwanttoseethis.png" width="640" height="155"/>
-        <image name="reswag.png" width="640" height="180"/>
-        <image name="socialnewtorks.png" width="640" height="155"/>
+        <image name="center_purple_bar.png" width="16" height="16"/>
+        <image name="idontwanttoseethis.png" width="16" height="16"/>
+        <image name="reswag.png" width="16" height="16"/>
+        <image name="socialnewtorks.png" width="16" height="16"/>
     </resources>
-    <classes>
-        <class className="SharePopupView" superclassName="UIView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/SharePopupView.h"/>
-            <relationships>
-                <relationship kind="action" name="email:"/>
-                <relationship kind="action" name="sms:"/>
-                <relationship kind="outlet" name="image" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-        <class className="UntouchMePopupView" superclassName="UIView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/UntouchMePopupView.h"/>
-            <relationships>
-                <relationship kind="outlet" name="image" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>
